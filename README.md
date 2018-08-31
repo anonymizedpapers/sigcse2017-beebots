@@ -1,7 +1,7 @@
-# sigcse2018-beebots
+# sigcse2019-beebots
 
 This repository contains the replication package for paper "Robot Programming in Early Childhood to Develop Arts and
-Visual Memory Skills", submitted to SIGCSE 2018.
+Visual Memory Skills", submitted to SIGCSE 2019.
 
 - Appendix I: Intervention 1 - Script for the control group
 - Appendix II: Intervention 2 - Script for the control group
